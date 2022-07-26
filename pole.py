@@ -1,0 +1,7 @@
+core = ['pole crunches', 'plough over', 'knees to pole', 'legs/arms up to V to pull in', 'side to side fan kicks']
+back = ['swimmers', 'penguin pumps', 'arms out chest up', 'legs raise', 'pencil spins']
+invert = ['pole crunches in air', 'basic invert', 'invert spiderman hold', 'chopper hold', 'chopper']
+flexibility = ['splay forward fold', 'crossed leg forward fold', 'pike fold', 'froggy', 'runner stretch', 'pigeon', 'side splay stretch', 'split stretch sequence', 'fan kicks']
+spins = ['reverse altitude', 'carousel', 'carousel straddle', 'back hook dive', 'front hook dive', 'chair', 'front hook sweep', 'fan kick turn', 'full bracket cradle']
+climbs = ['side leg climb', 'spiral hanging climb', 'body wave climb', 'basic climb']
+working = ['layout', 'sit (ouch)', 'handstand', 'headstand']
